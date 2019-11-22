@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/BackgroundImages/GameOver.jpg</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/BackgroundImages/PlayingBackground.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/BackgroundImages/Start.jpg</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/BackgroundImages/Victory.jpg</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/ChinaStar.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/EU.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/Murica.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/Putin.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/Sombrero.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/EnemyImages/Tank.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Fonts/Score.spritefont</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Fonts/Time.spritefont</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Fonts/Wave.spritefont</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Particles/Blood.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Particles/Glass.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/Coin.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/LifeUp.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/SpeedDown.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/SpeedUp.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/VodkaSpeedUp.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PickupImages/WeaponSpeedDown.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PlayerImages/Crosshair.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PlayerImages/Life.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/PlayerImages/Slav.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/ProjectileImages/Ball.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/ProjectileImages/Sicklies.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/ProjectileImages/StarShard.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/ProjectileImages/Taco.png</File>
+    <File>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/ProjectileImages/Vodka.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

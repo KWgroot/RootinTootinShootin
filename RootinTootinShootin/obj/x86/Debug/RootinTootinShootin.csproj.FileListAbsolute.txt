@@ -1,0 +1,76 @@
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\RootinTootinShootin.exe
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\RootinTootinShootin.pdb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csprojAssemblyReference.cache
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csproj.CoreCompileInputs.cache
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csproj.CopyComplete
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.exe
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.pdb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\RootinTootinShootin.exe
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\RootinTootinShootin.pdb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csprojAssemblyReference.cache
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csproj.CoreCompileInputs.cache
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.csproj.CopyComplete
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.exe
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\obj\x86\Debug\RootinTootinShootin.pdb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\BackgroundImages\PlayingBackground.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PlayerImages\Slav.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PlayerImages\Crosshair.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\ProjectileImages\Vodka.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\Murica.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\EU.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\Fonts\Time.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\Fonts\Wave.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\Tank.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\ProjectileImages\Ball.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\ChinaStar.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\SmallStar.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\ProjectileImages\StarShard.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\Coin.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\SpeedDown.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\SpeedUp.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\VodkaSpeedUp.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\WeaponSpeedDown.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PlayerImages\Life.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\BackgroundImages\GameOver.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\BackgroundImages\Start.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\BackgroundImages\Victory.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\PickupImages\LifeUp.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\Sombrero.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\ProjectileImages\Taco.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\EnemyImages\Putin.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\ProjectileImages\Sicklies.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\Particles\Glass.xnb
+C:\Users\kwgro\OneDrive\Game Development\GPA\RootinTootinShootin\Koen's DevRoom\RootinTootinShootin\bin\Windows\x86\Debug\Content\Particles\Blood.xnb

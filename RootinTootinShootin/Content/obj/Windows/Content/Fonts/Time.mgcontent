@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/Fonts/Time.spritefont</SourceFile>
+  <SourceTime>2019-03-26T18:45:13.4989898+01:00</SourceTime>
+  <DestFile>C:/Users/kwgro/OneDrive/Game Development/GPA/RootinTootinShootin/Koen's DevRoom/RootinTootinShootin/Content/bin/Windows/Content/Fonts/Time.xnb</DestFile>
+  <DestTime>2019-11-02T12:58:26.3079401+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
